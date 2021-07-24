@@ -15,7 +15,7 @@ print(sentence)
 # <font color= 'purple'>
 # *Make sentence lowercase and remove the comma and the period.
 # *Use split function to separate the sentence into list of words.
-# *Generate a set of urepeated words. </font>
+#  </font>
 
 # In[5]:
 
